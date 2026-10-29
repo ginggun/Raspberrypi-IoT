@@ -1,0 +1,7 @@
+
+{
+  "device": "raspberry-pi",
+  "sensor": "temperature",
+  "value": 35,
+  "unit": "C"
+}
